@@ -1,6 +1,0 @@
-Nombre: Santiago Ortega Restrepo
-Edad: 19 años
-
-Aspiraciones: espero con esta materia tener un buen desarrollo en programacion orientada 
-a objetos y concretar mis bases en el manejo de interfaces de programacion
-y con esto poder crear proyectos con bases mucho mas funcionales y logicas en este ambito
