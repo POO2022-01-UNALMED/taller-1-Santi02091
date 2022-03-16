@@ -1,1 +1,0 @@
-Ahora si se pudo realizar el commit ya que la carpeta contenia el archivo de respuesta.txt 
