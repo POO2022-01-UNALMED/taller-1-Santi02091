@@ -4,3 +4,6 @@ Edad:19
 Aspiraciones: espero con esta materia poder asentar las bases necesarias para la creacion de 
 proyectos relacionado con la programacion orientada a objetos y poder mejorar mis hailidades 
 en el manejo de interfaces de programacion
+No se puede realizar el commit ya que la carpeta esta vacia
+al momento de querer manupular los 2 archivos al mismo tiempo genera conflictos y no deja hacer el commit, por eso se debe de manipular solo en 1 a la vez, ya sea en el escritorio o en la pagina web
+
