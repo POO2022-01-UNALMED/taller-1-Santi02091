@@ -1,0 +1,6 @@
+Nombre: Santiago Ortega Restrepo
+Edad:19
+
+Aspiraciones: espero con esta materia poder asentar las bases necesarias para la creacion de 
+proyectos relacionado con la programacion orientada a objetos y poder mejorar mis hailidades 
+en el manejo de interfaces de programacion
